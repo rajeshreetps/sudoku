@@ -4,7 +4,9 @@
 [Bb]uild/
 [Bb]uilds/
 [Aa]pk/
-[Pp]rojectSettings
+[Pp]rojectSettings/
+[Pp]ackages/
+[Ll]ogs/
 Assets/AssetStoreTools*
 Assets/Data*
 
